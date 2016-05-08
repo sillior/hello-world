@@ -8,6 +8,8 @@ int main()
 {
 	char name[] = "World";
 	printf("Hello, %s\n", name);
+	printf("New Test\n");
+	printf("Test at branch_VS\n");
     return 0;
 }
 
