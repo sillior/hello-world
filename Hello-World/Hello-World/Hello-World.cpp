@@ -8,6 +8,7 @@ int main()
 {
 	char name[] = "World";
 	printf("Hello, %s\n", name);
+	printf("New Test\n");
     return 0;
 }
 
